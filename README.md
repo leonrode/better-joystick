@@ -8,7 +8,7 @@ It provides simple yet useful functions that make sense for a joystick.
 
 ## Installation
 
-Better Joystick can be installed through the Library Manager in the Arduino IDE.
+Better Joystick can be installed through the Library Manager in the Arduino IDE. (issue posted, will be hopefully added soon :D)
 
 ## Usage
 

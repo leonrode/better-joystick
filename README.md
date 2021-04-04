@@ -66,3 +66,9 @@ enum DIRECTION {
 ## License
 
 Better Joystick is licensed under the [**GNU General Public License v3.0**](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+## Contact
+
+Contact me [here](mailto:leon.rode13@gmail.com) if you have any suggestions or comments.
+
+Thanks for viewing!

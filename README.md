@@ -1,10 +1,10 @@
 # better-joystick
-A better joystick library to handle Arduino joysticks.
+A better joystick library to handle dual-axis Arduino joysticks.
 
 ## Introduction
 
 Better Joystick allows the user to interface with the Arduino joystick component. 
-It provides simple yet useful functions that make sense for a joystick.
+It provides simple yet useful functions that make sense for a dual-axis joystick.
 
 ## Installation
 
@@ -65,7 +65,7 @@ enum DIRECTION {
 
 ## License
 
-Better Joystick is licensed under the [**GNU General Public License v3.0**](https://www.gnu.org/licenses/gpl-3.0.en.html)
+Better Joystick is released under the [**GNU General Public License v3.0**](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Contact
 

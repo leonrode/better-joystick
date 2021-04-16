@@ -8,7 +8,7 @@ It provides simple yet useful functions that make sense for a dual-axis joystick
 
 ## Installation
 
-Better Joystick can be installed through the Library Manager in the Arduino IDE. (Issue posted, will be hopefully added soon. For now, download the source and add the library from disk :D)
+Better Joystick can be installed through the Library Manager in the Arduino IDE :D.
 
 ## Usage
 

@@ -14,7 +14,7 @@ Better Joystick can be installed through the Library Manager in the Arduino IDE 
 
 A simple `Joystick` object can be created with the relevant pins in the constructor, like this:
 ```
-Joystick joystick(A0, A1, 7);
+Joystick joystick(A0, A1, 7); // X, Y, switch
 ```
 
 The `Joystick` class contains many methods that can be called in a similar fashion.

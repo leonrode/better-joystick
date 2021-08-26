@@ -2,7 +2,7 @@
 Title: Better Joystick example file
 Author: Leon Rode
 License: GNU GPLv3
-URL: https://github.com/lionrocker/better-joystick
+URL: https://github.com/leonrode/better-joystick
 */
 #include <BetterJoystick.h>
 
